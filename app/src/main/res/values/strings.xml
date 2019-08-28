@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Livestream</string>
+    <string name="publish">Publish</string>
+    <string name="stop">Stop</string>
+    <string name="broadcast_url">rtmp://192.168.1.25:1935/LiveApp/test</string>
+    <string name="unexpected_error">Connection Failed!</string>
+    <string name="disconnected">Disconnected!</string>
+    <string name="live">LIVE</string>
+</resources>
